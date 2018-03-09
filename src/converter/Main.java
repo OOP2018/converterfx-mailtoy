@@ -7,8 +7,16 @@ import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
 import javafx.fxml.FXMLLoader;
 
-
+/**
+ * 
+ * @author Kanchanok Kannee
+ *
+ */
 public class Main extends Application {
+	
+	/**
+	 * Initiate the program.
+	 */
 	@Override
 	public void start(Stage primaryStage) {
 		try {
@@ -22,6 +30,10 @@ public class Main extends Application {
 		}
 	}
 	
+	/**
+	 * Run the program.
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		launch(args);
 	}
