@@ -8,7 +8,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.fxml.FXMLLoader;
 
 /**
- * 
+ * Main class to launch the program.
  * @author Kanchanok Kannee
  *
  */

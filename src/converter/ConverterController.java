@@ -64,7 +64,6 @@ public class ConverterController {
 	 */
 	@FXML
 	public void initialize() {
-		// This is for testing
 		System.out.println("Running initialize");
 		if (comboBox1 != null) {
 			comboBox1.getItems().addAll(Length.values());
